@@ -1,0 +1,56 @@
+[
+  {
+    "username": "StarCommander",
+    "score": 14500,
+    "wpm": 78,
+    "accuracy": 98,
+    "wave": 8,
+    "difficulty": "normal",
+    "createdAt": "2026-09-24T09:40:16.609Z"
+  },
+  {
+    "username": "FalconLeader",
+    "score": 13000,
+    "wpm": 72,
+    "accuracy": 96,
+    "wave": 7,
+    "difficulty": "normal",
+    "createdAt": "2026-09-25T09:48:09.534Z"
+  },
+  {
+    "username": "NovaTypist",
+    "score": 11200,
+    "wpm": 66,
+    "accuracy": 95,
+    "wave": 6,
+    "difficulty": "normal",
+    "createdAt": "2026-09-24T21:40:16.609Z"
+  },
+  {
+    "username": "CyberAce",
+    "score": 9400,
+    "wpm": 61,
+    "accuracy": 92,
+    "wave": 5,
+    "difficulty": "normal",
+    "createdAt": "2026-09-25T01:40:16.609Z"
+  },
+  {
+    "username": "CosmoRider",
+    "score": 7200,
+    "wpm": 54,
+    "accuracy": 90,
+    "wave": 4,
+    "difficulty": "normal",
+    "createdAt": "2026-09-25T05:40:16.609Z"
+  },
+  {
+    "username": "CadetVanguard",
+    "score": 4800,
+    "wpm": 45,
+    "accuracy": 88,
+    "wave": 3,
+    "difficulty": "normal",
+    "createdAt": "2026-09-25T09:40:16.609Z"
+  }
+]

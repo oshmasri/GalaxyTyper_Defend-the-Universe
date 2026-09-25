@@ -1,0 +1,17 @@
+{
+  "name": "galaxy-typer",
+  "version": "1.0.0",
+  "description": "Galaxy Typer - Z-Type Cosmic Space Typing Game Clone (MERN Stack)",
+  "type": "module",
+  "scripts": {
+    "dev": "node start-dev.js",
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "install:all": "npm --prefix client install && npm --prefix server install"
+  },
+  "keywords": ["z-type", "typing-game", "mern", "react", "express", "canvas", "space-shooter"],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "galaxy-typer-root",
+  "version": "1.0.0",
+  "description": "Galaxy Typer - Z-Type Cosmic Space Typing Game Clone (MERN Stack)",
+  "scripts": {
+    "dev": "npm --prefix GalaxyTyper_Defend-the-Universe-main run dev",
+    "start": "npm --prefix GalaxyTyper_Defend-the-Universe-main start",
+    "server": "npm --prefix GalaxyTyper_Defend-the-Universe-main run server",
+    "client": "npm --prefix GalaxyTyper_Defend-the-Universe-main run client",
+    "build": "npm --prefix GalaxyTyper_Defend-the-Universe-main run build"
+  }
+}
