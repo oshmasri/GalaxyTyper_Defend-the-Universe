@@ -1,4 +1,4 @@
-# 🌌 Galaxy Typer: Defend the Universe (Z-Type Clone)
+# 🌌 Galaxy Typer: Defend the Universe 
 
 A fast-paced cosmic space arcade typing shooter game clone inspired by **Z-Type**, built on the **MERN stack** (MongoDB, Express.js, React 19, Node.js) with HTML5 Canvas 2D and procedural Web Audio API.
 
